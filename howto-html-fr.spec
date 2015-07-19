@@ -7,7 +7,7 @@
 Summary:	%{language} HOWTO documents (html format) from the Linux Documentation Project
 Name:		howto-%{format1}
 Version:	%DATE
-Release:	12
+Release:	13
 Group:		Books/Howtos
 License:	GPLv2
 # ftp://ftp.traduc.org:/pub/HOWTO/FR/
