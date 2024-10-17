@@ -11,7 +11,7 @@ Release:	13
 Group:		Books/Howtos
 License:	GPLv2
 # ftp://ftp.traduc.org:/pub/HOWTO/FR/
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 Source0:	%{name}.tar
 BuildArch:	noarch
 
